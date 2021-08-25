@@ -12,7 +12,7 @@
 </p>
 
 ## What Is BlurKit?
-BlurKit is an extraordinarily easy to use and performant utility to render real time blur effects in Android.
+动态实时虚化，BlurKit is an extraordinarily easy to use and performant utility to render real time blur effects in Android.
 
 <p align="center">
     <img alt='BlurKit Demo' src='.repo/bk-demo.gif' />
